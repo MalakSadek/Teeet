@@ -6,6 +6,8 @@ This application was designed by AUC graphic design student Rowan Maher for her 
 
 The application is implemented in both **Arabic & English** (which can be toggled from the settings page) with all visual elements, animations, and fonts being fully custom-built.
 
+![picture alt](https://github.com/MalakSadek/Teeet/blob/master/OutputDAG.png "Logo")
+
 Screenshots and videos can be found here: https://malaksadek.wordpress.com/2019/10/15/teeet-the-egyptian-microbus-experience/
 
 # Download the App
