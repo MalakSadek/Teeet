@@ -1,5 +1,5 @@
 # Teeet
-🚌🚎The Egyptian Transport Mobile Application (2017)
+🚌🚎The Egyptian Transport Mobile Application (2017).
  
 This is an **iOS Application** implemented using **Swift** to be used while riding Egyptian public transport.
 This application was designed by AUC graphic design student Rowan Maher for her thesis project. The application is highly visual, and is primarily front end. It presents the user with many tips and tricks for their chosen mode of public transportation (currently only microbuses), provides them with a playlist, shows them the nearest stops using **Google Maps API** and their prices, presents them with GIFs to explain what the different hand signs mean, contains a dictionary with the unique terms and phrases used, provides a diagram of a microbus with descriptions for each seat, and entertains users with mini-games, etc.
