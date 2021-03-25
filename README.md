@@ -18,4 +18,4 @@ The app is available on the iOS App Store: https://apps.apple.com/us/app/teeet/i
 
 * email: mfzs1@st-andrews.ac.uk
 * LinkedIn: www.linkedin.com/in/malak-sadek-17aa65164/
-* website: https://malaksadek.wordpress.com/
+* website: http://malaksadekapps.com/
